@@ -1,4 +1,11 @@
-# Flask Stack Simulator startup template
+# F1 Stack Simulator – Solomon, Leslie
+
+- Name: Leslie D. Solomon
+- Section: BSIT WMT 4-2
+- Original starter repository: https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+- Activity: Pre-demonstration activity for ELEC 4. I cloned the Flask Stack Simulator starter template, explored how Python/Flask connects to the HTML interface (with CSS, Bootstrap, JavaScript and jQuery), and completed the reading activity ahead of the demo.
+
+---
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
 
